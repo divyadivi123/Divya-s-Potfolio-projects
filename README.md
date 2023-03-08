@@ -8,3 +8,5 @@ Vehcicle Data Project
      Data is stored in Azure blob storage
      Data is visualized  in tableau .
      
+     Azure Blob Container where the .sql and the cleansed Excel files (Owner Demographics and  Property Details) are stored
+     -https://storageportfolio.blob.core.windows.net/cont1
